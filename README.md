@@ -1,3 +1,3 @@
 # Notes-app1
-Created with CodeSandbox
+Site link:
 https://csb-ns5cv.netlify.app/
